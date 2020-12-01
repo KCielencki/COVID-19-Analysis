@@ -1,2 +1,2 @@
-# Group-Proj_1
-Group Project 1 covering COVID-19
+# Group-5---COVID
+Coronavirus analysis (Group 5)
